@@ -55,5 +55,6 @@ void loop()
   // put your main code here, to run repeatedly:
   int l = 2;
   disp(l);
+  int b;
 
 }
