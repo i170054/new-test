@@ -19,14 +19,7 @@ void disp(int a)
           off();
       }
       
-      break;
-     case 1:
-      for(int i =3;i<=4;i++)
-      {
-          digitalWrite(i,HIGH);
-          delay(1000);
-          off();
-      }
+
       break;
       case 2:
         digitalWrite(2,HIGH);
